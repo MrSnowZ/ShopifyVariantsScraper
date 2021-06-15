@@ -12,3 +12,6 @@ This code cannot be used by itself, you must add it onto existing code, if you a
 Requirements (npm install): 
 discord.js 
 axios
+
+
+Join the Sneaker Development server: https://discord.gg/tfsMHec
