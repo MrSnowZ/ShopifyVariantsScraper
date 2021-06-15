@@ -9,4 +9,6 @@ My goal with this command was to seperate the sizes and variants, making it easi
 
 This code cannot be used by itself, you must add it onto existing code, if you already have command/event handlers then you can just add the file right in and no extra work should be needed.
 
-Requirements (npm install): discord.js axios
+Requirements (npm install): 
+discord.js 
+axios
